@@ -1,0 +1,20 @@
+<resources>
+    <!-- Global -->
+    <string name="app_name">任务清单</string>
+
+    <!-- Main -->
+    <string name="action_settings">设置</string>
+    <string name="action_debug">存储</string>
+
+    <!-- Debug -->
+    <string name="print_absolute_path">输出存储路径</string>
+    <string name="request_storage_permission">请求存储权限</string>
+
+    <!-- Note -->
+    <string name="take_a_note">添加任务</string>
+    <string name="confirm">确认添加</string>
+
+    <string name="priority_high">紧迫</string>
+    <string name="priority_medium">一般</string>
+    <string name="priority_low">松弛</string>
+</resources>
